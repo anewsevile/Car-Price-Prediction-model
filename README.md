@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project builds a **Machine Learning model** to predict the **selling price of used cars** using **Linear Regression**.
+This project builds a **Machine Learning model** to predict the **selling price of used cars** using **Linear Regression**
 
 The workflow includes:
 
