@@ -105,5 +105,4 @@ car_price_prediction.ipynb
 
 ## 👨‍💻 Author
 
-**Your Name**
 GitHub: https://github.com/anewsevile
